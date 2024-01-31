@@ -1,6 +1,7 @@
 export const Bio = {
   name: "Kyaw Zin Htet",
   roles: [
+    "Learner",
     "Full Stack Developer",
     "React.JS Developer",
     "Next.JS Developer",
@@ -11,7 +12,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ryan-100",
   resume:
-    "https://drive.google.com/file/d/1tq0Tk-Fjd6S02mSmWxCQc6AOcR8_NbMG/view?usp=sharing",
+    "https://drive.google.com/file/d/1A8HdVHQ2G7G6E_IuuXY66OwpIfZInNkE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kyaw-zin-htet-2755b024a/",
   twitter: "https://twitter.com",
   insta: "https://www.instagram.com/kyawzinnhtet_/",
@@ -119,7 +120,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4AcWVNXAcQRBFx8zMjpcSM4di6dDMGDuPHJmZ2c7MiRlDM2SmyMyMYl790VVXTbVqtDWHXfWP5/6bv9O9ItlqiHuz/oWdJ/+hxrg3XWSzYL4C8kmNCS3JuHFdzOtSH/dWQmSeXQgAjKyPeb4EyCXEgqxD1Ma8VRUR94YCMTtrEDBfAflSOPUPFIh5P8vsn99L7cxB1MTcFVCrOelv2HkE8970G5j3gdakHaI6mjBPKGGu6IBgBbAndElSgiBzyJciCDWJqqh7hq8pDzu30nIm8OfLyZzEk/hWZlfguS/rjnkpH0yYr4B8KTLXJfEz5LzGcycYd1cgZhGE8eWohDkEc1IwBNQBGoQWvUogRi3KzRkAxAAUiC+ldrPSqv6vkP1OnRN1Uff4/4jzIBCiIuJFIWmuKDAJAFg+GeI1zYmHMB8slALApnYgQuJzif1NAhBEUBIkFeBrqd1EHQKAhYKVblj9CdkfsNh5SQAmSXwuaZMAaakOgENgdjwX5RFnGpmbQHAAatEfZfYXPA9RzsMeyNcczMkCJSFKTCE4gNodcsfojMu/Q85TaU5iEIW0niCKTSForW5iQmTOIfJprRGECoCon9I6vH5VwyemHqKA+xongcj/AKKrkkA/fFYbmAQ3TwFiC18D86OaeweJYg+uoIOJqXdbsPpZZj/Tjm3NzlNNYh3UpwrxQzt1ExMy27lJEmhFeR70EzPmFqRgnVqLQqmbm7coCbGnuQwmpmbnWUlCs/NsJaHO9qxAjPsTci//DbnnADBaJFktk63VVxGkRzAAAAAASUVORK5CYII=",
       },
       {
         name: "GitHub",
@@ -144,13 +145,13 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8",
       },
      
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABZElEQVR4Ae2URVYEQRBEe4dcAIer1H5ki6xquAC2H70Hegq09uhR6jFLLOnASaT8jeZ7MT4dvzIzOhuWqXRxVrRLc6pdnte5iIs2V3/XVkXRupRB5rfF2Ro3NAMwrcu638lLcxIGngAcQjgDoO3RADYqyh0ABvEAtPv8sXSRAKCOjgCJ8IpfxCWUnjGc71AMeRxLC8oRQKPttIX4BdbBEolcam+F9P4yEdf77yaP78XUyZOaPnnSuQivJ48eZJD53hLVuCFXBvPTxxpMf9Xxvd8IdpZImswhnJKbck0ek/BpvbIBQKtNAPiNM4CFOQQDG2lnACydJYC2gXAH6PAIsITCBgDxMwF4x/GgUzHkceTj4AAonPLLODReoztZaI3etMTYTUuN37R0LuLK0hXMmzVuyJXSXMKgYwBoe0cBmFFHAHTXjwC/SbeEF3VhAsCidiiGMG/wO1y6OH4Zh8Zr3JyySPUMD+KthXmsO0kAAAAASUVORK5CYII=",
       },
     ],
   },
@@ -159,23 +160,26 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "/img/river.jpg",
-    role: "Diploma in Computer Science",
-    company: "The River College",
-    date: "Mar 2022 - Mar 2023",
-    desc: " I got a solid understanding of database management systems, software testing, and quality metrics, ensuring the reliability of software applications.",
+    img: "/img/solinx.jpg",
+    role: "Mid-Senior Frontend Developer",
+    company: "Solinx Technology Co.,Ltd",
+    date: "Nov 2023 - Present",
+    desc: "Working on the frontend of the web application using ReactJS, NextJs, Redux and etc for chatting, localization, admin dashboard mointorization.",
     skills: [
-      "Project Management",
-      "Software Engineering",
-      "System Analysis and Design",
-      "Networking Fundamentals",
-      "Database Management System",
-      "Web Dev Fundamentals",
-      "Software Quality Metrics and Design Patterns",
-      "Software Maintenance and Refactoring",
-      "Cyber Security",
+      "ReactJS",
+      "NextJS",
+      "Redux",
+      "RTK-Query",
+      "Apollo/Client",
+      "Next-i18n",
+      "Material UI",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "SASS",
+      "JavaScript",
     ],
-    doc: "/img/diploma.png",
+    doc: "/img/solinxR.jpg",
   },
   {
     id: 0,
@@ -197,6 +201,26 @@ export const experiences = [
       "JavaScript",
     ],
     doc: "/img/junctureRec.jpg",
+  },
+  {
+    id: 0,
+    img: "/img/river.jpg",
+    role: "Diploma in Computer Science",
+    company: "The River College",
+    date: "Mar 2022 - Mar 2023",
+    desc: " I got a solid understanding of database management systems, software testing, and quality metrics, ensuring the reliability of software applications.",
+    skills: [
+      "Project Management",
+      "Software Engineering",
+      "System Analysis and Design",
+      "Networking Fundamentals",
+      "Database Management System",
+      "Web Dev Fundamentals",
+      "Software Quality Metrics and Design Patterns",
+      "Software Maintenance and Refactoring",
+      "Cyber Security",
+    ],
+    doc: "/img/diploma.png",
   },
   {
     id: 1,
@@ -287,7 +311,7 @@ export const projects = [
       "Swiper Js",
       "RTK Query",
     ],
-    category: "freelance",
+    category: "work",
     github: "https://github.com/juncture-react-team/juncturre-job-portal",
     webapp: "https://jobstory.asia",
     member: [
@@ -307,6 +331,20 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Fatty Food Delivery",
+    date: "Dec 2023 - Jan 2024",
+    description:
+      "Fatty gives the Food & Parcel delivery service in Premier, Faster and Reliable way in LASHIO city, Shan state, Myanmar. Much more delicious foods are now available on Fatty App!",
+    image:
+      "fatty.png",
+    tags: ["React Js", "Next Js", "Next-i18n", "Google Map Api","TailwindCSS", "react-hook-form", "RTK-Query"],
+    category: "work",
+    github: "https://github.com/fattyfoodelivery/Fattywebsite",
+    webapp: "https://fattyfooddeli.com/en",
+  
+  },
+  {
+    id: 2,
     title: "Unique Private School",
     date: "Jul 2023 - Sep 2023",
     description:
@@ -314,7 +352,7 @@ export const projects = [
     image:
       "unique.png",
     tags: ["React Js", "Next Js", "TailwindCSS", "Styled-Components","Swiper Js","react-hook-form", "RTK-Query"],
-    category: "freelance",
+    category: "work",
     github: "https://github.com/unique-dev-team/unique-school",
     webapp: "https://unique-school.vercel.app/private_school",
   
@@ -332,7 +370,7 @@ export const projects = [
       "CSS",
       "Javascript",
     ],
-    category: "freelance",
+    category: "work",
     github: "https://github.com/Ryan-100/honey-portfolio",
     webapp: "https://honey-portfolio-beige.vercel.app/",
   },
@@ -346,7 +384,7 @@ export const projects = [
     image:
       "uniqueit.png",
     tags: ["React Js", "Next Js", "TailwindCSS", "Styled-Components","Swiper Js","react-hook-form", "RTK-Query"],
-    category: "freelance",
+    category: "work",
     github: "https://github.com/unique-dev-team/unique-school",
     webapp: "https://unique-school.vercel.app/training_center",
    
@@ -392,7 +430,7 @@ export const projects = [
       "Creativity",
       "Customize",
     ],
-    category: "freelance",
+    category: "work",
     webapp: "https://kyawzinhtet6388.wixsite.com/my-site-1",
   },
 ];

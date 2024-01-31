@@ -21,10 +21,10 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'freelance' ?
-            <ToggleButton active value="freelance" onClick={() => setToggle('freelance')}>Freelance</ToggleButton>
+          {toggle === 'work' ?
+            <ToggleButton active value="work" onClick={() => setToggle('work')}>Work</ToggleButton>
             :
-            <ToggleButton value="freelance" onClick={() => setToggle('freelance')}>Freelance</ToggleButton>
+            <ToggleButton value="work" onClick={() => setToggle('work')}>Work</ToggleButton>
           }
             <Divider />
           {toggle === 'school pj' ?
