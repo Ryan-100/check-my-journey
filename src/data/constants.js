@@ -5,16 +5,17 @@ export const Bio = {
     "Full Stack Developer",
     "React.JS Developer",
     "Next.JS Developer",
+    "React Native Developer",
     "Programmer",
-    "Content Writer",
+    "Machine Learning Enthusiastic",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ryan-100",
   resume:
-    "https://drive.google.com/file/d/1A8HdVHQ2G7G6E_IuuXY66OwpIfZInNkE/view?usp=sharing",
+    "https://drive.google.com/file/d/12XetjTu0u0zEyicO6_eVZYM8MlKUii-q/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kyaw-zin-htet-2755b024a/",
-  twitter: "https://twitter.com",
+  twitter: "https://x.com/KyawZinnHtet",
   insta: "https://www.instagram.com/kyawzinnhtet_/",
   facebook: "https://www.facebook.com/kyaw.z.htet.98284",
 };
@@ -65,7 +66,7 @@ export const skills = [
       {
         name: "TailwindCSS",
         image:
-          "https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg",
+          "data:image/png;base64,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",
       },
     ],
   },
@@ -160,10 +161,36 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "/img/joy.png",
+    role: "Mid-Senior Frontend Developer",
+    company: "Joy Groups International Co.,Ltd",
+    date: "Apr 2024 - Present",
+    desc: "Working on the frontend of the web application using ReactJS, NextJs, Redux and etc for chatting, localization, admin dashboard mointorization.",
+    skills: [
+      "ReactJS",
+      "NextJS",
+      "Redux",
+      "RTK-Query",
+      "Tanstack-React-Query",
+      "Google Authentication",
+      "Apollo/Client",
+      "Next-i18n",
+      "Material UI",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "SASS",
+      "JavaScript",
+      "Typescript",
+    ],
+    doc: "/img/joyDocs.png",
+  },
+  {
+    id: 0,
     img: "/img/solinx.jpg",
     role: "Mid-Senior Frontend Developer",
     company: "Solinx Technology Co.,Ltd",
-    date: "Nov 2023 - Present",
+    date: "Nov 2023 - Mar 2024",
     desc: "Working on the frontend of the web application using ReactJS, NextJs, Redux and etc for chatting, localization, admin dashboard mointorization.",
     skills: [
       "ReactJS",
@@ -259,14 +286,16 @@ export const experiences = [
 ];
 
 export const education = [
-  {
-    id: 0,
-    img: "behs6.jpg",
-    school: "BEHS-6,Pathein",
-    date: "Jun 2015 - Mar 2020",
-    grade: "4/4.0 GPA",
-    desc: "I completed high school education from this school, where I studied six subjects : Myanmar, English, Mathematics, Chemistry, Physics and Biology.",
-    degree: "High School - Basic Education",
+   {
+    id: 2,
+    img: "cmkl.png",
+    school: "CMKL Univeristy",
+    date: "Aug 2024 - Present",
+    grade: "3.88/4 (First Sem)",
+    desc:`I am currently freshman at CMKL Univeristy. The B.Eng in AiCE is Thailand's first undergraduate program in AI that provides competency-based curricula. 
+Their mission is to build up talented engineers & researchers readied for the next wave of digital disruption. Throughout the program, the students will explore how apply AI techniques to major aspects of computing; including human-centric design & visualization, accelerated computing system, privacy & security. The students will learn with hands-on experience, solving real-world problems alongside university's engineers & designers with university's industrial partners. Technical deep-dive is also provided by working with university's international teams of researchers & faculty members from leading universities. 
+`,
+    degree: "Bachelor of Engineering in Artificial Intelligence & Computer Engineering",
   },
   {
     id: 1,
@@ -276,6 +305,15 @@ export const education = [
     grade: "88.7%",
     desc:"I have completed a comprehensive diploma program that has equipped me with a strong foundation in computer science and software development. Proficient in programming languages such as Javascript, Python, and PHP, I am skilled in software development methodologies and project management. I have a solid understanding of database management systems, software testing, and quality metrics, ensuring the reliability of software applications. Additionally, my coursework has provided me with valuable knowledge in computer networking, architecture, and cybersecurity, and I have expertise in web design and development, including HTML, CSS, JS and PHP. Overall, my diploma program has prepared me for a successful career in the IT field.",
     degree: "Diploma in Computer Science",
+  },
+ {
+    id: 0,
+    img: "behs6.jpg",
+    school: "BEHS-6,Pathein",
+    date: "Jun 2015 - Mar 2020",
+    grade: "4/4.0 GPA",
+    desc: "I completed high school education from this school, where I studied six subjects : Myanmar, English, Mathematics, Chemistry, Physics and Biology.",
+    degree: "High School - Basic Education",
   },
 ];
 
@@ -295,6 +333,45 @@ export const projects = [
     webapp: "https://code-worms-streaming.vercel.app/welcome",
   },
   {
+    id: 12,
+    title: "A1CE",
+    date: "Sep 2024 - Present",
+    description:
+      "A1CE is a mobile platform for CMKL University's students to track academic records and activity calendar.",
+    image:
+      "a1ce.png",
+    tags: ["React Native", "Expo", "Google OAuth", "eas", "TailwindCSS"],
+    category: "school pj",
+    github: "https://github.com/CMKL-A1CE/a1ce_mobile/tree/ryan",
+    webapp: "Not Available Yet.",
+  },
+  {
+    id: 11,
+    title: "Global Reporter",
+    date: "October 2024 - December 2024",
+    description:
+      "Global Reporter is a news application dedicated to providing accurate information across a diverse range of news categories.",
+    image:
+      "gr.png",
+    tags: ["React Js", "NextJS", "Typescript", "Tanstack-react-query", "ShadCN","zod", "TailwindCSS", "react-hook-form", "react-intersaction-observer",],
+    category: "work",
+    github: "https://github.com/Joy-Groups-International/global-reporter",
+    webapp: "https://globalreporter.org/en/home/daily-news?country_id=1",
+  },
+  {
+    id: 10,
+    title: "One Site Profile",
+    date: "Jan 2025 - March 2025",
+    description:
+      "One Site offers a free subdomain to host your website, and you only need to pay the hosting fee annually. Or, you can just purchase a custom domain from One Site to use for your website.",
+    image:
+      "onesite.png",
+    tags: ["React Js", "Typescript", "Tanstack-react-query", "ShadCN","zod", "TailwindCSS","Swiper Js","react-hook-form"],
+    category: "work",
+    github: "https://github.com/Joy-Groups-International/Profile-OneSite-FE",
+    webapp: "https://www.onesiteprofile.com/",
+  },
+  {
     id: 9,
     title: "JobStory",
     date: "Jan 2023 - Jul 2023",
@@ -312,8 +389,8 @@ export const projects = [
       "RTK Query",
     ],
     category: "work",
-    github: "https://github.com/juncture-react-team/juncturre-job-portal",
-    webapp: "https://jobstory.asia",
+    github: "https://github.com/Ryan-100/job-story",
+    webapp: "https://job-story.vercel.app/",
     member: [
       {
         name: "Thet Pai",
